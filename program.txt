@@ -5,4 +5,6 @@ starting new script
 editing 1
 editing 2
 
+editing 3
+editing 4
 end of program
